@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; margin:0; padding:0; text-align:center; background:#f9f9f9; }
+header { background:#2d2e83; color:#fff; padding:20px; }
+h1 { margin:0; }
+.hero { margin:30px auto; max-width:500px; background:#fff; padding:20px; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.1); }
+.qr { width:250px; margin:20px auto; }
+.btn { display:inline-block; padding:10px 20px; background:#2d2e83; color:#fff; text-decoration:none; border-radius:8px; }
+footer { margin-top:30px; padding:10px; background:#2d2e83; color:#fff; }
